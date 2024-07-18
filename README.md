@@ -13,10 +13,6 @@ This project is part of the Google Advanced Data Analytics Certificate and focus
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -71,5 +67,4 @@ This project successfully demonstrated the use of machine learning techniques to
 - Experimenting with deep learning models for improved accuracy
 - Implementing the model in a real-time environment for automated claim classification
 
-## Installation
 
